@@ -1,0 +1,45 @@
+# Alert Configuration
+alert_config:
+  email_from: "your.sendergmail@gmail.com" #Email that will send the alerts
+  email_to:
+    - "yourreceiver@gmail.com"             #Email that will receive the alerts
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587                           #Default SMTP port of gmail
+  smtp_username: "your.sender@gmail.com"
+  smtp_password: "123 456 789"             
+  alert_threshold: 3                       #Numbers of alerts to send before cooldown triggers
+  alert_cooldown: 3600
+  severity_levels:
+    - "CRITICAL"
+    - "HIGH"
+    - "MEDIUM"
+    - "LOW"
+  min_severity_to_email: "HIGH"
+
+# API Keys
+virus_total_api_key: "API Key"     #Get it by creating account on Virus total
+
+# Monitoring Configuration
+monitoring_interval: 60
+max_cpu_threshold: 90.0
+max_memory_threshold: 85.0
+
+# Network Security
+suspicious_ports: 
+  - 23
+  - 445
+  - 3389
+
+allowed_ips:             #IPs that are allowed to make connections with your network
+  - "192.168.1.1"
+  - "192.168.1.2"
+
+blocked_ips:            #IPs that are blocked to make connections with your network
+  - "10.0.0.1"
+  - "10.0.0.2"
+  - "52.20.172.146"
+
+                                          
+                             # Logging and Database   
+log_file: "ids.log"
+database_file: "ids.db"

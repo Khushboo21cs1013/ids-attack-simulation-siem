@@ -1,0 +1,74 @@
+2024-11-25 19:03:30,408 - INFO - SMTP configuration validated successfully
+2024-11-25 19:03:30,634 - INFO - Starting IDS...
+2024-11-25 19:05:34,810 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:06:44,123 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:08:51,391 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:09:55,274 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:12:02,485 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:13:05,906 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:15:13,432 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:16:16,508 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:19:27,378 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:22:38,260 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:25:49,967 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:29:01,171 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 19:32:12,570 - INFO - Alert email sent: Suspicious process activity
+2024-11-25 20:01:10,994 - INFO - SMTP configuration validated successfully
+2024-11-25 20:01:11,226 - INFO - Starting IDS...
+2024-11-25 20:04:23,350 - INFO - Alert email sent: Suspicious process activity
+2024-11-26 12:59:33,113 - INFO - SMTP configuration validated successfully
+2024-11-26 12:59:33,626 - INFO - Starting IDS...
+2024-11-26 13:02:51,129 - INFO - Alert email sent: Suspicious process activity
+2024-11-26 13:04:14,904 - INFO - Shutting down IDS...
+2024-11-26 13:04:14,904 - INFO - IDS shutdown complete.
+2024-11-27 20:18:53,592 - INFO - SMTP configuration validated successfully
+2024-11-27 20:18:53,807 - INFO - Starting IDS...
+2024-11-27 20:20:50,423 - INFO - Shutting down IDS...
+2024-11-27 20:20:50,423 - INFO - IDS shutdown complete.
+2024-11-28 00:49:04,890 - INFO - SMTP configuration validated successfully
+2024-11-28 00:49:05,125 - INFO - Starting IDS...
+2024-11-28 00:52:17,368 - INFO - Alert email sent: Suspicious process activity
+2024-11-28 00:55:29,219 - INFO - Alert email sent: Suspicious process activity
+2024-11-28 20:22:48,563 - ERROR - SMTP configuration validation failed: [Errno 11001] getaddrinfo failed
+2024-11-28 20:22:48,563 - WARNING - Email alerts will be logged but not sent
+2024-11-28 20:22:48,563 - INFO - Starting IDS...
+2024-11-28 20:23:22,570 - ERROR - SMTP configuration validation failed: [Errno 11001] getaddrinfo failed
+2024-11-28 20:23:22,570 - WARNING - Email alerts will be logged but not sent
+2024-11-28 20:23:22,570 - INFO - Starting IDS...
+2024-11-28 20:26:33,588 - ERROR - Failed to send alert email (general error): [Errno 11001] getaddrinfo failed
+2024-11-28 20:29:41,642 - ERROR - Failed to send alert email (general error): [Errno 11001] getaddrinfo failed
+2024-11-28 20:32:50,560 - ERROR - Failed to send alert email (general error): [Errno 11001] getaddrinfo failed
+2024-11-28 20:36:00,804 - INFO - Alert email sent: Suspicious process activity
+2024-11-28 20:39:10,888 - INFO - Alert email sent: Suspicious process activity
+2024-11-28 20:42:20,784 - INFO - Alert email sent: Suspicious process activity
+2024-11-28 20:45:29,954 - INFO - Alert email sent: Suspicious process activity
+2024-11-28 20:48:39,543 - INFO - Alert email sent: Suspicious process activity
+2024-11-29 10:39:08,944 - INFO - SMTP configuration validated successfully
+2024-11-29 10:39:09,316 - INFO - Starting IDS...
+2024-11-29 10:39:19,662 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:39:27,147 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:39:34,980 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:39:41,945 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:39:48,952 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:39:55,564 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:40:03,074 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:40:09,721 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:40:16,287 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:40:23,009 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 10:40:31,087 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:02:09,198 - INFO - SMTP configuration validated successfully
+2024-11-29 11:02:09,474 - INFO - Starting IDS...
+2024-11-29 11:04:04,563 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:10,751 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:14,539 - INFO - Alert email sent: Connection to blocked IP detected
+2024-11-29 11:04:16,426 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:22,469 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:29,690 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:35,649 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:42,445 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:48,912 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:04:55,236 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:05:02,020 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:05:08,550 - INFO - Alert email sent: Blocked IP detected
+2024-11-29 11:05:26,931 - INFO - Alert email sent: Suspicious process activity
+2024-11-29 11:08:41,291 - INFO - Alert email sent: Suspicious process activity
